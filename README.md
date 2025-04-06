@@ -32,7 +32,7 @@ Use these SDKs to write MCP clients (agents) that can talk to MCP servers:
 Combine with popular AI agent frameworks:
 
 - **[Python: OpenAI Agents SDK](https://openai.github.io/openai-agents-python/mcp/)** — Use `MCPServerSse` with [Azure OpenAI](https://github.com/Azure-Samples/azure-openai-keyless-python)
-- **[.NET: Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/main/dotnet/samples/Demos/ModelContextProtocolPlugin)** — Add MCP tools to your Kernel instance
+- **[.NET: Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/integrating-model-context-protocol-tools-with-semantic-kernel-a-step-by-step-guide/)** — Add MCP tools to your Kernel instance
 - **[Java: Spring AI](https://docs.spring.io/spring-ai/reference/api/mcp/mcp-client-boot-starter-docs.html)** — Auto-configure MCP in Spring Boot apps
 
 ---
@@ -45,6 +45,7 @@ Skip building your own — these open-source servers expose familiar APIs via MC
 
 ### 🗃️ Data APIs
 
+- **[Azure AI Agents](https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp/)** - Talk to web data with Bing and your private data with Azure AI Search 
 - **[Redis](https://github.com/modelcontextprotocol/servers/tree/main/src/redis)** — Works with [Azure Redis](https://learn.microsoft.com/en-us/azure/redis/quickstart-create-managed-redis)
 - **[PostgreSQL](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres)** — Connect to [Azure PostgreSQL](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/quickstart-create-server)
 - **[MySQL](https://github.com/designcomputer/mysql_mcp_server)** — For [Azure MySQL](https://learn.microsoft.com/en-us/azure/mysql/flexible-server/quickstart-create-server-cli)
@@ -55,8 +56,5 @@ Skip building your own — these open-source servers expose familiar APIs via MC
 
 - **[Azure CLI](https://github.com/jdubois/azure-cli-mcp)** — Natural language access to Azure CLI
 - **[Kubernetes](https://github.com/Flux159/mcp-server-kubernetes)** — Manage [AKS clusters](https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-azd)
-- **[Azure DevOps (Python)](https://github.com/Vortiago/mcp-azure-devops)** — Work item support
-- **[Azure DevOps (Node.js)](https://github.com/Tiberriver256/mcp-server-azure-devops)** — Pipelines, repos, boards
 - **[GitHub](https://github.com/github/github-mcp-server)** — Talk to GitHub with chat or code
-
 ---
