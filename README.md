@@ -45,7 +45,7 @@ Skip building your own — these open-source servers expose familiar APIs via MC
 
 ### 🗃️ Data APIs
 
-- **[Azure AI Agents](https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp/)** - Talk to web data with Bing and your private data with Azure AI Search 
+- **[Azure AI Agents](https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp/)** - Access Bing for web data and Azure AI Search for your private data 
 - **[Redis](https://github.com/modelcontextprotocol/servers/tree/main/src/redis)** — Works with [Azure Redis](https://learn.microsoft.com/en-us/azure/redis/quickstart-create-managed-redis)
 - **[PostgreSQL](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres)** — Connect to [Azure PostgreSQL](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/quickstart-create-server)
 - **[MySQL](https://github.com/designcomputer/mysql_mcp_server)** — For [Azure MySQL](https://learn.microsoft.com/en-us/azure/mysql/flexible-server/quickstart-create-server-cli)
