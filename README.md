@@ -39,7 +39,7 @@ Combine with popular AI agent frameworks:
 
 ## 🧩 3. Use Prebuilt MCP Servers
 
-Skip building your own — these open-source servers expose familiar Azure APIs via MCP.
+Skip building your own — these open-source servers expose familiar APIs via MCP.
 
 > ⚠️ Community maintained. Not officially supported by Microsoft.
 
@@ -54,7 +54,7 @@ Skip building your own — these open-source servers expose familiar Azure APIs 
 ### 🔧 Dev & Infra APIs
 
 - **[Azure CLI](https://github.com/jdubois/azure-cli-mcp)** — Natural language access to Azure CLI
-- **[AKS / Kubernetes](https://github.com/Flux159/mcp-server-kubernetes)** — Manage [AKS clusters](https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-azd)
+- **[Kubernetes](https://github.com/Flux159/mcp-server-kubernetes)** — Manage [AKS clusters](https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-azd)
 - **[Azure DevOps (Python)](https://github.com/Vortiago/mcp-azure-devops)** — Work item support
 - **[Azure DevOps (Node.js)](https://github.com/Tiberriver256/mcp-server-azure-devops)** — Pipelines, repos, boards
 - **[GitHub](https://github.com/github/github-mcp-server)** — Talk to GitHub with chat or code
