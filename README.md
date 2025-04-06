@@ -1,6 +1,6 @@
 # Azure Model Context Protocol (MCP) Hub
 
-This repo offers samples, tools, and resources for building and integrating [Model Context Protocol](https://modelcontextprotocol.io) (MCP) servers on Azure using multiple languages. Whether you're spinning up your own MCP server or consuming existing ones, this hub will help you get started fast with Agentic Tools and AI Agents.
+This repo links to samples, tools, and resources for building and integrating [Model Context Protocol](https://modelcontextprotocol.io) (MCP) servers on Azure using multiple languages. Whether you're spinning up your own MCP server or consuming existing ones, this hub will help you get started fast with Agentic Tools and AI Agents.
 
 ## 🚀 Build MCP Servers on Azure
 Deploy your own MCP server with Azure Functions:
