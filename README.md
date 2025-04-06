@@ -6,7 +6,7 @@ Everything app devs need to build AI-powered tools that call real APIs. This hub
 Run your own MCP server on Azure Functions in minutes:
 - **[C# (.NET)](https://github.com/Azure-Samples/remote-mcp-functions-dotnet)**
 - **[Python](https://github.com/Azure-Samples/remote-mcp-functions-python)**
-- **[TypeScript / Node.js)](https://github.com/Azure-Samples/remote-mcp-functions-typescript)**
+- **[TypeScript / Node.js](https://github.com/Azure-Samples/remote-mcp-functions-typescript)**
 
 ## 🧠 Build Agents that Use MCP
 SDKs to create AI agents that talk to MCP servers:
