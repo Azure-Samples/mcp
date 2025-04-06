@@ -8,9 +8,9 @@
 
 Use Azure Functions to host your own MCP server. Pick your stack:
 
-- **[.NET](https://github.com/Azure-Samples/remote-mcp-functions-dotnet)**
+- **[C#](https://github.com/Azure-Samples/remote-mcp-functions-dotnet)**
 - **[Python](https://github.com/Azure-Samples/remote-mcp-functions-python)**
-- **[TypeScript ](https://github.com/Azure-Samples/remote-mcp-functions-typescript)**
+- **[TypeScript](https://github.com/Azure-Samples/remote-mcp-functions-typescript)**
 
 ---
 
@@ -22,7 +22,7 @@ Write agents that can use tools exposed by any MCP server. Use your preferred la
 
 Use these SDKs to write MCP clients (agents) that can talk to MCP servers:
 
-- **[.NET SDK](https://github.com/modelcontextprotocol/csharp-sdk)**
+- **[C# SDK](https://github.com/modelcontextprotocol/csharp-sdk)**
 - **[Python SDK](https://github.com/modelcontextprotocol/python-sdk)**
 - **[TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)**
 - **[Java SDK](https://github.com/modelcontextprotocol/java-sdk)**
@@ -31,10 +31,10 @@ Use these SDKs to write MCP clients (agents) that can talk to MCP servers:
 
 Combine with popular AI agent frameworks:
 
+- **[C#: Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/integrating-model-context-protocol-tools-with-semantic-kernel-a-step-by-step-guide/)** — Add MCP tools to your Kernel instance
 - **[Python: OpenAI Agents SDK](https://openai.github.io/openai-agents-python/mcp/)** — Use `MCPServerSse` with [Azure OpenAI](https://github.com/Azure-Samples/azure-openai-keyless-python)
-- **[.NET: Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/integrating-model-context-protocol-tools-with-semantic-kernel-a-step-by-step-guide/)** — Add MCP tools to your Kernel instance
+- **[JavaScript: LangChain.js](https://changelog.langchain.com/announcements/mcp-adapters-for-langchain-and-langgraph)** — Convert MCP tools into LangChain- & LangGraph-compatible tools 
 - **[Java: Spring AI](https://docs.spring.io/spring-ai/reference/api/mcp/mcp-client-boot-starter-docs.html)** — Auto-configure MCP in Spring Boot apps
-
 ---
 
 ## 🧩 3. Use Prebuilt MCP Servers
